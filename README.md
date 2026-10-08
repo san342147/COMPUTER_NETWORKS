@@ -23,6 +23,3 @@
 | 14 | [241501185-CN-14.pdf](241501185-CN-14.pdf) | 3 |
 | 15 | [241501185-CN-15.pdf](241501185-CN-15.pdf) | 2 |
 
-## Reference
-
-Adapted from [Rajeshganesh22/COMPUTER_NETWORKS](https://github.com/Rajeshganesh22/COMPUTER_NETWORKS). The reference Word documents were converted to PDF. Student identity labels were updated; the reference experiment material and sample outputs were retained.
